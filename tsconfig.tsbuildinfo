@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/authcontroller.ts","./src/mailtrap/emailtemplates.ts","./src/mailtrap/mailtrap.config.ts","./src/routes/auth.routes.ts","./src/routes/main.routes.ts","./src/schemas/room.schema.ts","./src/schemas/user.schema.ts"],"version":"5.8.3"}
